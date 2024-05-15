@@ -8,6 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 editeur de text
+editeur de text  aute que prevue
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
